@@ -1,0 +1,6 @@
+tweet_id,tweet,post_time,type,tweet_source,favorite_count,retweet_count,retweeted_from_id,retweeted_from_name,reply_to_id,reply_to_name,language,hashtags
+demo, #hello_world this is a random text,Wed May 20 06:32:21 +0000 2020,retweet,Twitter for iPhone,0,2,1,demo,,,ar,['hello_world']
+1, #Random text,Tue May 19 23:46:52 +0000 2020,retweet,Twitter for iPhone,0,0,1,demo,,,en,['Random']
+1262551235493875712,@demo Random text,Tue May 19 01:10:46 +0000 2015,reply,Twitter for iPhone,0,2,,,1,demo,en,
+1262948825825775616,#Random #text,Wed May 20 03:30:39 +0000 2010,tweet,Twitter for Android,2,10,,,,,en,"['Random', 'text']"
+1262948825825775616,#Random #text,Wed May 20 04:30:39 +0000 2010,tweet,Twitter for Android,2,10,,,,,en,
